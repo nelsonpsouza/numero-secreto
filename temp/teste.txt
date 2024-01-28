@@ -1,1 +1,0 @@
-arquivo a ser ignorado no add
